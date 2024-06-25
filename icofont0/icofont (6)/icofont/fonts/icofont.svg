@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="icofont" horiz-adv-x="1000" >
+<font-face font-family="IcoFont" font-weight="400" font-style="Regular" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="download" horiz-adv-x="1000" unicode="&#xef08;" d="M483 131c9-10 25-10 35 0l294 285c9 10 9 25 0 34l-59 57c-9 10-25 10-35 0l-139-135v364c0 13-11 24-25 24h-98c-14 0-25-11-25-24v-374l-149 145c-10 10-25 10-35 0l-59-57c-9-9-9-24 0-34l295-285z m333 137v-206h-632v206h-121v-267c0-34 27-61 60-61h754c33 0 60 27 60 61v267h-121z" />
+</font>
+</defs>
+</svg>
